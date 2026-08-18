@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bvhp-cerp-tool/static/js/main.e8bf72ed.js",
+    "main.js": "/bvhp-cerp-tool/static/js/main.c5caee5e.js",
     "index.html": "/bvhp-cerp-tool/index.html",
-    "main.e8bf72ed.js.map": "/bvhp-cerp-tool/static/js/main.e8bf72ed.js.map"
+    "main.c5caee5e.js.map": "/bvhp-cerp-tool/static/js/main.c5caee5e.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8bf72ed.js"
+    "static/js/main.c5caee5e.js"
   ]
 }
